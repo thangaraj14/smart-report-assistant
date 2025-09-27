@@ -1,0 +1,12 @@
+Linked Account ID,Account Name,Instance Region,Service,Instance Type,Usage Type,Platform,Current Coverage,New Coverage,Recommended Purchases,Upfront Cost,Monthly Cost,Estimated Monthly Savings,Estimated Yearly Savings
+146708650527,CloudHealth Prod,us-east-1,OpenSearch,r6g.large.search,,,0,1,7,14746.235000000004,0,443.7523611111112,5325.028333333334
+146708650527,CloudHealth Prod,us-east-1,ElastiCache,cache.m6g.8xlarge,,Redis,0,1,4,112468,0,3792.5091111111105,45510.10933333333
+146708650527,CloudHealth Prod,us-east-1,OpenSearch,m6g.large.search,,,0,1,3,4843.928999999998,0,145.7664166666667,1749.1970000000008
+146708650527,CloudHealth Prod,us-east-1,DynamoDB,,ReadCapacityUnit-Hrs,,0,1,600,215.9999941248996,7.0080001632032,36.814499999994,441.773999999928
+146708650527,CloudHealth Prod,us-east-1,DynamoDB,,WriteCapacityUnit-Hrs,,0,1,300,540.0000517966862,17.7389985611963,74.0235000000069,888.2820000000828
+146708650527,CloudHealth Prod,us-east-1,ElastiCache,cache.t3.medium,,Redis,0,1,2,1611.9999999999998,0,54.5022222222222,654.0266666666669
+146708650527,CloudHealth Prod,us-east-1,OpenSearch,r6g.xlarge.search,,,0,1,6,25354.943999999996,0,762.9960000000001,9155.952000000001
+146708650527,CloudHealth Prod,us-east-1,Redshift,dc2.large,,,0,1,8,19719.999999999985,0,911.7118995000002,10940.542794000003
+146708650527,CloudHealth Prod,us-east-1,ElastiCache,cache.r6g.xlarge,,Redis,0,1,2,9734,0,329.671111111111,3956.053333333332
+146708650527,CloudHealth Prod,us-east-1,ElastiCache,cache.r6gd.4xlarge,,Redis,0,1,2,73749.07999999999,0,2506.614444444445,30079.373333333337
+146708650527,CloudHealth Prod,us-east-1,ElastiCache,cache.m6g.large,,Redis,0,1,8,14064.000000000005,0,479.4933333333332,5753.919999999998

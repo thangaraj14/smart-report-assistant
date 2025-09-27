@@ -1,0 +1,5 @@
+Start Date,Duration,Account ID,Account Name,Service,Region,Marketplace,Cost Impact Type,Cost Impact,Cost Impact Percentage,Cost,Status,Feedback
+2025-09-11T00:00:00Z,-,214848089233,CloudHealth NG Prod,AmazonDynamoDB,us-east-1,false,INCREASE,88.85,83.42,195.36,ACTIVE,Not Submitted
+2025-09-10T00:00:00Z,1 day,924758434213,CloudHealth NG Staging,AmazonRDS,us-east-2,false,INCREASE,16.18,15.15,123.01,INACTIVE,Not Submitted
+2025-09-10T00:00:00Z,1 day,924758434213,CloudHealth NG Staging,AmazonDynamoDB,us-east-2,false,INCREASE,2.87,231.45,4.11,INACTIVE,Not Submitted
+2025-09-08T00:00:00Z,1 day,297322132092,CloudHealth Mgmt,AmazonAthena,us-east-1,false,INCREASE,19.94,613.54,23.19,INACTIVE,Not Submitted
